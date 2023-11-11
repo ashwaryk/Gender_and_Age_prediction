@@ -8,3 +8,4 @@ flask
 requests
 gunicorn
 pyyaml
+from-root
