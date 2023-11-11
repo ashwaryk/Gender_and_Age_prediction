@@ -7,4 +7,3 @@ scikit-learn
 flask
 requests
 gunicorn
-yaml
