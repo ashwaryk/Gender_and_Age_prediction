@@ -15,6 +15,7 @@ class ClientApp:
         self.filename = "inputImage.jpg"
         self.classifier = PredictionPipeline(self.filename)
 
+clApp = ClientApp() 
 
 @app.route("/")
 def home():
@@ -48,5 +49,5 @@ def predictRoute():
 
 
 if __name__ == "__main__":
-    clApp = ClientApp()
+    #clApp = ClientApp()
     app.run(host=APP_HOST, port=APP_PORT, debug=True)
