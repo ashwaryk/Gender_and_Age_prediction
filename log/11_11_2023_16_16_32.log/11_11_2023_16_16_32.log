@@ -1,0 +1,7 @@
+[2023-11-11 16:16:36,994] werkzeug - WARNING -  * Debugger is active!
+[2023-11-11 16:16:37,007] werkzeug - INFO -  * Debugger PIN: 911-893-562
+[2023-11-11 16:16:39,331] werkzeug - INFO - 127.0.0.1 - - [11/Nov/2023 16:16:39] "GET / HTTP/1.1" 200 -
+[2023-11-11 16:16:46,242] werkzeug - INFO - 127.0.0.1 - - [11/Nov/2023 16:16:46] "POST /predict HTTP/1.1" 200 -
+[2023-11-11 16:16:54,384] werkzeug - INFO - 127.0.0.1 - - [11/Nov/2023 16:16:54] "POST /predict HTTP/1.1" 200 -
+[2023-11-11 16:17:03,761] werkzeug - INFO - 127.0.0.1 - - [11/Nov/2023 16:17:03] "POST /predict HTTP/1.1" 200 -
+[2023-11-11 16:18:46,093] werkzeug - INFO -  * Detected change in 'C:\\Users\\ASHWARY\\Desktop\\Projects\\Gender_Detect\\pipeline\\prediction.py', reloading

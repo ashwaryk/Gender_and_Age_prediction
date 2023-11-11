@@ -1,0 +1,3 @@
+[2023-11-11 16:30:22,016] werkzeug - WARNING -  * Debugger is active!
+[2023-11-11 16:30:22,030] werkzeug - INFO -  * Debugger PIN: 911-893-562
+[2023-11-11 16:30:46,758] werkzeug - INFO -  * Detected change in 'C:\\Users\\ASHWARY\\Desktop\\Projects\\Gender_Detect\\pipeline\\prediction.py', reloading
