@@ -9,3 +9,4 @@ requests
 gunicorn
 pyyaml
 from-root
+flask-cors
